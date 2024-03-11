@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "blockrpg1201:item/Ruby"
+  }
+}
